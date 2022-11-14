@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>/</link><description></description><lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate><item><title>Deep Learning Like a Viking: Building Convolutional Neural Networks with Keras</title><link>/pyohio-2019/deep-learning-like-a-viking-building-convolutional-neural-networks-with-keras.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this session, we are going to build a Convolution Neural Network to
+recognize hand-written runes from the Younger Futhark. We'll be using
+Keras to write easy to understand Python code that creates and trains
+the neural network to do this. We'll wire this up to a web application
+using Flask and some client-side JavaScript so you can write some runes
+yourself and see if it recognizes them.&lt;/p&gt;
+&lt;p&gt;The Vikings came from the land of ice and snow, from the midnight sun,
+where the hot springs flow. In addition to longships and bad attitudes,
+they had a system of writing that we, in modern times, have dubbed the
+Younger Futhark (or ᚠᚢᚦᚬᚱᚴ if you're a Viking). These sigils are more
+commonly called runes and have been mimicked in fantasy literature and
+role-playing games for decades.&lt;/p&gt;
+&lt;p&gt;Of course, having an alphabet, runic or otherwise, solves lots of
+problems. But, it also introduces others. The Vikings had the same
+problem we do today. How were they to get their automated software
+systems to recognize the hand- carved input of a typical boatman? Of
+course, they were never able to solve this problem and were instead
+forced into a life of burning and pillaging. Today, we have deep
+learning and neural networks and can, fortunately, avoid such a fate.&lt;/p&gt;
+&lt;p&gt;When we're done, you'll understand how Convolution Neural Networks work,
+how to build your own using Python and Keras, and how to make it a part
+of an application using Flask. Maybe you'll even try seeing what it
+thinks of the Bluetooth logo?&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guy Royse</dc:creator><pubDate>Sun, 28 Jul 2019 15:15:00 +0000</pubDate><guid isPermaLink="false">tag:,2019-07-28:pyohio-2019/deep-learning-like-a-viking-building-convolutional-neural-networks-with-keras.html</guid></item><item><title>Mystery ML: Classifying Text w/ Recurrent Neural Networks, Keras, Scoob and the Gang</title><link>/python-web-conf-2021/mystery-ml-classifying-text-w-recurrent-neural-networks-keras-scoob-and-the-gang.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&amp;quot;Mystery Machine Learning: Classifying Text with Recurrent Neural Networks, Keras, and Scoob and the Gang&amp;quot; by: Guy Royse&lt;/p&gt;
+&lt;p&gt;Jinkies! Spoiler Alert! If you’ve seen Scooby-Doo, you know who the monster always is—Old Man Withers, the guy who runs the amusement park. Amusement park operators like Old Man Withers have caused Mystery, Inc. all sorts of problems over the years. Problems that could be avoided with a properly trained recurrent neural network. With RNNs, Scoob and the Gang could have built a model to classify everyone’s speech. This would show them that Old Man Withers and Redbeard’s Ghost sounded a lot alike!&lt;/p&gt;
+&lt;p&gt;We can help Mystery, Inc. with this problem by building a recurrent neural network to do just that. You know we got a mystery to solve, and we’re going to solve it by building our model using lines from Scooby-Doo, Keras, and TensorFlow. Once we have our model, we’ll host it on RedisAI so we can quickly build an application to make use of it. Well, we’ve got some work to do now.&lt;/p&gt;
+&lt;p&gt;I will also explain what neural networks are in general, what recurrent neural networks are in particular, and discuss some practical use of this technology. When we’re done, you’ll know how to build RNNs with Keras, use them to classify text, and integrate them into your application. But more importantly, you’re going to have yourself a Scooby snack! That’s a fact!&lt;/p&gt;
+&lt;p&gt;Recorded at the 2021 Python Web Conference (&lt;a class="reference external" href="https://2021.pythonwebconf.com"&gt;https://2021.pythonwebconf.com&lt;/a&gt;)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guy Royse</dc:creator><pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:,2021-03-22:python-web-conf-2021/mystery-ml-classifying-text-w-recurrent-neural-networks-keras-scoob-and-the-gang.html</guid><category>PythonWebConf</category><category>PythonWebConf2021</category></item></channel></rss>

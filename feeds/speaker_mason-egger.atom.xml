@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="/" rel="alternate"></link><link href="/feeds/speaker_mason-egger.atom.xml" rel="self"></link><id>/</id><updated>2021-10-02T00:00:00+00:00</updated><entry><title>There’s a Snake in the Birdhouse!</title><link href="/europython-2020/theres-a-snake-in-the-birdhouse.html" rel="alternate"></link><published>2020-07-23T00:00:00+00:00</published><updated>2020-07-23T00:00:00+00:00</updated><author><name>Mason Egger</name></author><id>tag:,2020-07-23:europython-2020/theres-a-snake-in-the-birdhouse.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Building a Python Culture at Vrbo&lt;/p&gt;
+&lt;p&gt;It’s no surprise why many of us are so enamored with Python. Its simplicity, accessibility, and community make it a prime choice for many projects. However, not all software engineering shops use Python, maybe even some of the jobs you work at. Introducing Python to your company and building a Pythonic culture from the ground up is no small task, but it can be done. Join me as I take you through the journey of getting Python from zero to hero within my previous company. I’ll share the experience from start to finish, including what worked, what didn’t, what I would have done differently, and how I evangelized Python to bring it to be a supported language within my company’s ecosystem. Viewers will leave having learned from my experiences—both successes and mistakes—and with a solid plan for implementing Python at their job.&lt;/p&gt;
+</summary><category term="europython"></category><category term="europython-2020"></category><category term="europython-online"></category><category term="Business"></category><category term="Business Cases"></category><category term="The Answer to Life the Universe and Everything Else"></category><category term="Use Case"></category><category term="failures/mistakes"></category></entry><entry><title>Building Docs like Code: Continuous Integration for Documentation</title><link href="/pycon-latam-2019/building-docs-like-code-continuous-integration-for-documentation.html" rel="alternate"></link><published>2019-08-30T00:00:00+00:00</published><updated>2019-08-30T00:00:00+00:00</updated><author><name>Mason Egger</name></author><id>tag:,2019-08-30:pycon-latam-2019/building-docs-like-code-continuous-integration-for-documentation.html</id><summary type="html"></summary></entry><entry><title>Building Docs like Code: Continuous Integration for Documentation</title><link href="/pycon-us-2020/building-docs-like-code-continuous-integration-for-documentation.html" rel="alternate"></link><published>2020-04-17T00:00:00+00:00</published><updated>2020-04-17T00:00:00+00:00</updated><author><name>Mason Egger</name></author><id>tag:,2020-04-17:pycon-us-2020/building-docs-like-code-continuous-integration-for-documentation.html</id><summary type="html"></summary></entry><entry><title>Building Docs Like Code: Continuous Integration for Documentation</title><link href="/pygotham-2019/building-docs-like-code-continuous-integration-for-documentation.html" rel="alternate"></link><published>2019-10-04T00:00:00+00:00</published><updated>2019-10-04T00:00:00+00:00</updated><author><name>Mason Egger</name></author><id>tag:,2019-10-04:pygotham-2019/building-docs-like-code-continuous-integration-for-documentation.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;# Abstract&lt;/p&gt;
+&lt;p&gt;Project documentation is easy to neglect. Keep your docs inside your
+source repo &amp;amp; learn how to automatically build &amp;amp; publish beautiful docs
+on every commit. Viewers will leave with a new mindset on how to handle
+documentation, tooling for this process, &amp;amp; an easy-to-implement method
+to achieve this.&lt;/p&gt;
+&lt;p&gt;# Description&lt;/p&gt;
+&lt;p&gt;It is common for developers to overlook the documentation of their
+works. They are either on a time crunch, lack the proper tooling, or
+simply just forget to create and update the documentation. Whatever the
+cause behind this, it is not a proper excuse for not keeping the
+documentation up to date. However, for all our development processes
+there are few as neglected as the documentation process. Documentation
+should be treated as important as the code that makes up the project.
+So, let’s move the documentation into the code. With modern
+documentation tools such as MkDocs and Sphinx, both of which are Python
+powered tools, and Continuous Integration tools we can now include docs
+in the commit. They can be reviewed in code reviews, built and versioned
+in a CI tool, and even tested for things such as correct code examples
+and broken links. This is the process that the developer knows,
+understands, and enjoys. I introduced a team to this exact workflow and
+a working pipeline; all they had to do was keep the documentation up to
+date. This team currently has some of the most up to date documentation
+in a company of near two thousand engineers, and they never complain
+about writing/updating documentation. It’s just part of the workflow.&lt;/p&gt;
+</summary></entry><entry><title>Write Docs Devs Love: Ten Tricks To Level Up Your Tech Writing</title><link href="/pygotham-2021/write-docs-devs-love-ten-tricks-to-level-up-your-tech-writing.html" rel="alternate"></link><published>2021-10-02T00:00:00+00:00</published><updated>2021-10-02T00:00:00+00:00</updated><author><name>Mason Egger</name></author><id>tag:,2021-10-02:pygotham-2021/write-docs-devs-love-ten-tricks-to-level-up-your-tech-writing.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Think of that feeling you get when you follow an online tutorial or
+documentation and the code works on the first run. Now think of all the
+hours spent wasted following broken, outdated, or incomplete documentation.
+From our favorite tutorials to bad product docs we all consume technical
+writing. Tutorials, blog posts, and product docs help developers learn new
+things, build projects, and debug issues. But what makes one tutorial better
+than another? In this talk I'll discuss how you can write the documentation
+that developers love and I’ll share 10 tips and tricks to improve your
+technical writing.&lt;/p&gt;
+</summary></entry><entry><title>Building Docs like Code: Continuous Integration for Documentation</title><link href="/pyohio-2019/building-docs-like-code-continuous-integration-for-documentation.html" rel="alternate"></link><published>2019-07-27T15:45:00+00:00</published><updated>2019-07-27T15:45:00+00:00</updated><author><name>Mason Egger</name></author><id>tag:,2019-07-27:pyohio-2019/building-docs-like-code-continuous-integration-for-documentation.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Project documentation is easy to neglect. Keep your docs inside your
+source repo and learn how to automatically build and publish beautiful
+docs on every commit. Viewers will leave with a new mindset on how to
+handle documentation, tooling for this process, and an easy-to-implement
+method to achieve this.&lt;/p&gt;
+&lt;p&gt;It is common for developers to overlook the documentation of their
+works. They are either on a time crunch, lack the proper tooling, or
+simply just forget to create and update the documentation. Whatever the
+cause behind this, it is not a proper excuse for not keeping the
+documentation up to date. However, for all our development processes
+there are few as neglected as the documentation process. Documentation
+should be treated as important as the code that makes up the project. In
+this talk we'll take a look at current documentation processes and
+discuss moving the documentation into the code. With modern
+documentation tools such as MkDocs and Sphinx, both of which are Python
+powered tools, and Continuous Integration tools we can now include docs
+in the commit. They can be reviewed in code reviews, built and versioned
+in a CI tool, and even tested for things such as correct code examples
+and broken links. This is the process that the developer knows,
+understands, and enjoys. I introduced a team to this exact workflow and
+a working pipeline; all they had to do was keep the documentation up to
+date. This team currently has some of the most up to date documentation
+in a company of near two thousand engineers, and they never complain
+about writing/updating documentation. It’s just part of the workflow.&lt;/p&gt;
+</summary></entry><entry><title>Building Docs like Code: Continuous Integration for Documentation</title><link href="/pytexas-2019/building-docs-like-code-continuous-integration-for-documentation.html" rel="alternate"></link><published>2019-04-14T00:00:00+00:00</published><updated>2019-04-14T00:00:00+00:00</updated><author><name>Mason Egger</name></author><id>tag:,2019-04-14:pytexas-2019/building-docs-like-code-continuous-integration-for-documentation.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Project documentation is easy to neglect. Keep your docs inside your source repo &amp;amp; learn how to automatically build &amp;amp; publish beautiful docs on every commit. Viewers will leave with a new mindset on how to handle documentation, tooling for this process, &amp;amp; an easy-to-implement method to achieve this.&lt;/p&gt;
+</summary><category term="Documentation"></category></entry><entry><title>A Year Without Pants: Strategies for Successful Remote Work</title><link href="/python-web-conf-2021/a-year-without-pants-strategies-for-successful-remote-work.html" rel="alternate"></link><published>2021-03-22T00:00:00+00:00</published><updated>2021-03-22T00:00:00+00:00</updated><author><name>Mason Egger</name></author><id>tag:,2021-03-22:python-web-conf-2021/a-year-without-pants-strategies-for-successful-remote-work.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&amp;quot;A Year Without Pants: Strategies for Successful Remote Work&amp;quot; by: Mason Egger&lt;/p&gt;
+&lt;p&gt;2020 was the year of forced remote work. People struggle with this change due to lack of guidance on how to manage this shift. Due to this, many people have developed a negative opinion of remote work. However, remote work can be liberating. So how can you make working remotely enjoyable? From daily routines to simulated commutes I’ll discuss strategies for making remote work comfortable, productive, and enjoyable.&lt;/p&gt;
+&lt;p&gt;Recorded at the 2021 Python Web Conference (&lt;a class="reference external" href="https://2021.pythonwebconf.com"&gt;https://2021.pythonwebconf.com&lt;/a&gt;)&lt;/p&gt;
+</summary><category term="PythonWebConf"></category><category term="PythonWebConf2021"></category></entry></feed>
